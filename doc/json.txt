@@ -1,0 +1,3 @@
+{"fromtype":"hmi","datatype":"register","account":"1","password":"2","name":"3","phone":"4","carType":"5","profession":"6"}
+{"fromtype":"hmi","datatype":"login","account":"1","password":"2"}
+{"fromtype":"hmi","datatype":"saveWarningMsg","account":"1","time":"2019Äê08ÔÂ05ÈÕ 18:55:02","grade":"0","head":"0","fatigue":"1"}
